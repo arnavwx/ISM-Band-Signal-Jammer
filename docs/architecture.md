@@ -14,7 +14,11 @@ The system is powered by a **3.7V Lithium-ion battery** connected through a **TP
 
 ### Circuit Diagram Configuration
 
-Based on the original recovered whiteboard circuit diagram (`IMG-20251017-WA0007.jpg`), the pin mapping is as follows:
+<div align="center">
+  <img src="../media/schematic.jpg" alt="Whiteboard Circuit Diagram" width="500">
+</div>
+
+Based on the original recovered whiteboard circuit diagram, the pin mapping is as follows:
 
 | Component | Pin | ESP32 Pin | Notes |
 | :--- | :--- | :--- | :--- |
