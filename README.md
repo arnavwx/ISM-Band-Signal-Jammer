@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-The **ISM Band Signal Jammer** is a targeted hardware project designed to disrupt localized 2.4GHz communications (Wi-Fi, Bluetooth, Zigbee). Built around the powerful ESP32 microcontroller, this project employs a **dual-transceiver architecture** using two NRF24L01+PA+LNA modules to efficiently sweep and saturate the 2.4GHz spectrum.
+The *ISM Band Signal Jammer* is a targeted hardware project designed to disrupt localized 2.4GHz communications (Wi-Fi, Bluetooth, Zigbee). Built around the powerful ESP32 microcontroller, this project employs a **dual-transceiver architecture** using two NRF24L01+PA+LNA modules to efficiently sweep and saturate the 2.4GHz spectrum.
 
 > **⚠️ Academic Disclaimer:** This project was developed strictly for educational and experimental purposes. Do not use this device to maliciously interfere with public, private, or authorized radio communications.
 
