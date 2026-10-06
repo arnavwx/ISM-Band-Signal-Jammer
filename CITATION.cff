@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or hardware design, please cite it as below."
+authors:
+  - family-names: Jain
+    given-names: Arnav
+  - family-names: Rawat
+    given-names: Shreyansh
+  - family-names: Karel
+    given-names: Aditya Anand
+title: "2.4GHz EW Signal Jammer"
+version: 1.0.0
+date-released: 2025-11-18
+url: "https://github.com/TeamElectroboom/EW-Jammer"

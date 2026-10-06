@@ -1,0 +1,19 @@
+# PlatformIO Configuration
+.pio/
+.vscode/
+
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Media
+# Uncomment the following line if you don't want to commit large video files
+# media/*.mp4
