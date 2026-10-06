@@ -71,19 +71,63 @@ The firmware is structured for **PlatformIO**. To compile and flash the code to 
 
 ---
 
+## 📚 Technical Theory
+
+The project is supported by a structured engineering theory archive covering the
+full academic background required to understand, analyse, and extend this system.
+
+**Topics covered:**
+- Electromagnetics and RF fundamentals
+- Signals, spectra, and Fourier analysis
+- Modulation (GFSK) and communications fundamentals
+- Noise, interference, and SNR
+- Filters, bandwidth, and frequency selectivity
+- Antennas, propagation, and link concepts
+- RF front ends, amplification (PA/LNA), and power
+- Measurement, instrumentation, and validation
+- Embedded systems (ESP32, SPI, I2C, Arduino)
+- Digital signal generation and DSP
+- System integration and engineering tradeoffs
+- Project-specific question bank and viva preparation
+- Evidence and provenance register
+
+→ **[docs/theory/README.md](docs/theory/README.md)**
+
+> The theory archive also tracks what project evidence is RECOVERED, RECONSTRUCTED,
+> INFERRED, or MISSING, following a strict provenance policy.
+
+---
+
 ## 📂 Repository Structure
 
 ```text
 ISM-Band-Signal-Jammer/
-├── platformio.ini           # Build configuration and dependency manager
+├── platformio.ini                   # Build configuration and dependency manager
 ├── src/
-│   └── main.cpp             # Core ESP32 jamming firmware
+│   └── main.cpp                     # Core ESP32 jamming firmware
 ├── docs/
-│   ├── architecture.md      # In-depth logic and pin mapping
-│   ├── hardware.md          # Component specifics
-│   └── setup.md             # Compilation guide
+│   ├── architecture.md              # In-depth logic and pin mapping
+│   ├── hardware.md                  # Component specifics
+│   ├── setup.md                     # Compilation guide
+│   └── theory/                      # Engineering theory archive
+│       ├── README.md                # Theory index and learning path
+│       ├── 01-project-scope-and-system-context.md
+│       ├── 02-electromagnetics-and-rf-fundamentals.md
+│       ├── 03-signals-spectra-and-fourier-analysis.md
+│       ├── 04-modulation-and-communications-fundamentals.md
+│       ├── 05-noise-interference-and-snr.md
+│       ├── 06-filters-bandwidth-and-frequency-selectivity.md
+│       ├── 07-antennas-propagation-and-link-concepts.md
+│       ├── 08-rf-frontends-amplification-and-power.md
+│       ├── 09-measurement-instrumentation-and-validation.md
+│       ├── 10-embedded-systems-and-control-architecture.md
+│       ├── 11-signal-generation-and-digital-signal-processing.md
+│       ├── 12-system-integration-and-engineering-tradeoffs.md
+│       ├── 13-project-doubts-and-questions-register.md
+│       ├── 14-viva-questions-and-concept-checks.md
+│       └── 15-evidence-and-provenance-register.md
 └── media/
-    └── schematic.jpg        # Hardware design visuals
+    └── schematic.jpg                # Hardware design visuals
 ```
 
 ---
