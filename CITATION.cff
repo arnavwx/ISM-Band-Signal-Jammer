@@ -7,7 +7,7 @@ authors:
     given-names: Shreyansh
   - family-names: Karel
     given-names: Aditya Anand
-title: "2.4GHz EW Signal Jammer"
+title: "ISM Band Signal Jammer"
 version: 1.0.0
 date-released: 2025-11-18
 url: "https://github.com/TeamElectroboom/EW-Jammer"

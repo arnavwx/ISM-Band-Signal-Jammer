@@ -1,6 +1,6 @@
 # Hardware
 
-This document details the exact hardware components used for the Team Electroboom 2.4GHz EW Jammer project, as recovered from the original `Components_Electroboom_EW1.pdf`.
+This document details the exact hardware components used for the Team Electroboom ISM Band Signal Jammer project, as recovered from the original `Components_Electroboom_EW1.pdf`.
 
 ## Component List
 

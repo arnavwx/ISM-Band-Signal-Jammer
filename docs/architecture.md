@@ -1,6 +1,6 @@
 # System Architecture
 
-This document describes the hardware and software architecture of the 2.4GHz EW Jammer reconstructed for this repository.
+This document describes the hardware and software architecture of the ISM Band Signal Jammer reconstructed for this repository.
 
 ## Hardware Architecture
 

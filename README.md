@@ -1,4 +1,4 @@
-# EW Jammer Project: Team Electroboom
+# ISM Band Signal Jammer: Team Electroboom
 
 **University Engineering Project Repository**
 
@@ -7,9 +7,9 @@
 ![Framework](https://img.shields.io/badge/Framework-Arduino%20%28PlatformIO%29-orange)
 
 ## 1. Project Overview
-This repository contains the reconstructed firmware, documentation, and hardware design for a 2.4GHz Electronic Warfare (EW) Signal Jammer, developed by Team Electroboom. 
+This repository contains the reconstructed firmware, documentation, and hardware design for an ISM Band Signal Jammer, developed by Team Electroboom. 
 
-Originally assigned a 555-timer-based low-frequency jammer project, the team successfully proposed and pivoted to a more advanced 2.4GHz jammer utilizing an ESP32 microcontroller and dual NRF24L01+PA+LNA transceiver modules. 
+Originally assigned a 555-timer-based low-frequency jammer project, the team successfully proposed and pivoted to a more advanced ISM band jammer utilizing an ESP32 microcontroller and dual NRF24L01+PA+LNA transceiver modules. 
 
 > **Disclaimer**: This is a reconstructed repository built for archival, documentation, and academic purposes. Do not use this project for illegal interference with authorized radio communications.
 
